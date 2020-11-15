@@ -28,6 +28,7 @@ Index:
    * suffix automaton
    * Aho-Corasick
    * Manacher’s Algorithm 
+   * Edit/Levenshtein distance
  * grafy
    * dfs
    * bfs
@@ -41,6 +42,10 @@ Index:
    * eulerian path
    * hamiltonian path
    * graph coloring
+   * Johnsons's algorithm
+   * maximal matching in a general graph
+ * rekursja
+   * hanoi tower
  * drzewa
    * BST (binary search tree)
    * Treap
@@ -51,6 +56,7 @@ Index:
    * heavy-ligth decomposition
    * interval tree
    * K-d tree
+   * Link-Cut tree
  * liczby
    * modular multiplicative inverse
    * lowest common ancestor
@@ -61,6 +67,10 @@ Index:
    * gaussian elimination
    * Pollard Rho integer factorization
    * arbitrary precision integer (BigInt)
+   * sqrt decomposition
+   * Mo's algorithm
+   * Euler's totient function
+   * Burnside Lemma
  * kombinatoryka
    * TODO
  * prawdopodobieństwo
@@ -71,12 +81,14 @@ Index:
    * TODO
  * zbiory
    * union find / disjoint set
+   * inclusion and exlusion principle 
  * vectory / tablice
    * counting inversions
  * geometria
    * convex hull / otoczka wypukła
    * line intersection
    * sweep line algorithm
+   * coordinate compression
  * dynamic programming
    * TODO
    * knapsack problem
@@ -89,7 +101,8 @@ Index:
    * quick select
    * stable marriage problem
    * hungarian algorithm
-   * LCP (?)
+   * LCP (longest common prefix ?)
+   * branch and bound
    
 Na podstawie: 
  * https://discuss.codechef.com/t/data-structures-and-algorithms/6599
